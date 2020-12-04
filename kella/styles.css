@@ -1,0 +1,77 @@
+body{
+  font-family: 'Play';
+  background-color: #293036;
+}
+
+#title{
+  background-color: #e3e3de;
+}
+
+h1{
+  font-family: 'Montserrat';
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+#about_content{
+  padding-top: 50PX;
+  margin-left: 100px;
+}
+
+h3{
+  color: #e3e3de;
+  margin-top: 10px;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.img1{
+  padding: 3%;
+}
+/* features section */
+#features {
+  padding: 5%;
+}
+
+.feature-box{
+  text-align: center;
+}
+/*testimonials section*/
+#testimonials{
+  padding: 7% 15%;
+}
+
+#prints{
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+    color: #e3e3de;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.nostyle{
+  text-decoration: none !important;
+  color: #e3e3de;
+}
+
+a:hover{
+  color:  #e3e3de;
+}
+
+.footer{
+padding: 5% 10%;
+text-align: center;
+}
+
+#index_footer{
+background-color: #e3e3de;
+}
+
+#content_index_footer{
+  color: #293036;
+}
+
+p{
+  color: #e3e3de;
+}
